@@ -21,23 +21,23 @@ repository               : "xing-gao-phd/xing-gao-phd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/XinginSantaCruz-07.png"
+  avatar           : "images/bio-photo-2.jpg"
   name             : "Xing Gao"
   pronouns         : # example: "she/her"  
   bio              : "PhD, MPH"
   location         : "Oakland, CA"
-  employer         : "University of California, San Francisco"
+  employer         : "UC San Francisco"
   email            : "xing.gao@ucsf.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=1uc0MEsAAAAJ&hl=en"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
