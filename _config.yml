@@ -21,7 +21,7 @@ repository               : "xing-gao-phd/xing-gao-phd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo-2.jpg"
+  avatar           : "xingpic.jpg"
   name             : "Xing Gao"
   pronouns         : # example: "she/her"  
   bio              : "PhD, MPH"
