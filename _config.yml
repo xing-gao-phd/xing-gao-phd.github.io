@@ -12,7 +12,7 @@ title                    : "Xing Gao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xing-gao-phd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xing-gao-phd/xing-gao-phd.github.io"
 
@@ -21,13 +21,13 @@ repository               : "xing-gao-phd/xing-gao-phd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xingpic.jpeg"
+  avatar           : "profile.png"
   name             : "Xing Gao"
   pronouns         : # example: "she/her"  
   bio              : "PhD, MPH"
   location         : "Oakland, CA"
   employer         : "UC San Francisco"
-  email            : "xing.gao@ucsf.edu" 
+  email            : xing.gao@ucsf.edu
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=1uc0MEsAAAAJ&hl=en"
