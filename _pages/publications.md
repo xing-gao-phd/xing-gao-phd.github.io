@@ -16,21 +16,27 @@ Select Grants & Fellowships
 
 Select Publications
 ======
-## Interdisciplinary, theory-informed conceptualization of structural drivers, place, and racial health equity
+## Theme: Interdisciplinary, theory-informed conceptualization of structural drivers, place, and racial health equity
 
-* Gao X, Berkowitz RL, Michaels EK, Mujahid MS. Traveling Together: A Roadmap for Researching Neighborhood Effects on Population Health and Health Inequities. _Am J Epidemiol_. 2023;kwad129. [doi:10.1093/aje/kwad129](https://doi.org/10.1093/aje/kwad129)
-
-
-* Mujahid MS, Maddali SR, Gao X, Oo KH, Benjamin LA, Lewis TT. The Impact of Neighborhoods on Diabetes Risk and Outcomes: Centering Health Equity. _Diabetes Care_. 2023;dci230003. [doi:10.2337/dci23-0003](https://doi.org/10.2337/dci23-0003)
-
-## Place effect research through a racial equity and environmental justice lens
+* Gao X, Berkowitz RL, Michaels EK, Mujahid MS. Traveling Together: A Roadmap for Researching Neighborhood Effects on Population Health and Health Inequities. _Am J Epidemiol_. 2023 [doi:10.1093/aje/kwad129](https://doi.org/10.1093/aje/kwad129)
 
 
-
-## Place-based sociopolitical mechanisms and their implications for health and well-being
-
+* Berkowitz RL, Gao X, Michaels EK, Mujahid MS. Structurally Vulnerable Neighbourhood Environments and Racial/Ethnic COVID-19 Inequities. _Cities & Health_. 2021 [doi: 10.1080/23748834.2020.1792069](https://doi.org/10.1080/23748834.2020.1792069)
 
 
+## Theme: Place effect research throug racial equity and environmental justice lenses
+
+* Gao X, Kershaw AN, Barber S, Schreiner PJ, Do DP, Diez Roux AV, Mujahid MS. Associations between Residential Segregation and Incident Hypertension: The Multi-Ethnic Study of Atherosclerosis. _JAHA_. 2022 [doi: 10.1161/JAHA.121.023084](https://doi.org/10.1016/j.socscimed.2021.114542)
+
+* Gao X, Engeda J, Moore LV, Auchincloss A, Moore K, Mujahid MS. Longitudinal Associations between Objective and Perceived Healthy Food Environment and Diet: The Multi-Ethnic Study of Atherosclerosis. _Social Science & Medicine_. 2022 [doi: 10.1016/j.socscimed.2021.114542](https://doi.org/10.1016/j.socscimed.2021.114542)
+
+
+
+## Theme: Place-based sociopolitical mechanisms and their implications for health and well-being
+
+* Gao X, Snowden JM, Tucker CM, Allen A, Morello-Frosch R, Abrams B, Carmichael SL, Mujahid MS. Remapping Racial and Ethnic Inequities in Severe Maternal Morbidity: The Legacy of Redlining in California. _Paediatric and Perinatal Epidemiology_. 2023 [Top Cited Article 2022-2023] [doi:10.1111/ppe.12935](https://doi.org/10.1111/ppe.1293)
+
+* Gao X, Thomas TA, Morello-Frosch R, Allen AM, Snowden JM, Carmichael SL, Mujahid MS. Neighborhood Gentrification, Displacement, and Severe Maternal Morbidity in California. _Social Science & Medicine_. 2023 [doi:10.1016/j.socscimed.2023.116196](https://doi.org/doi:10.1016/j.socscimed.2023.116196)
 
 
 
