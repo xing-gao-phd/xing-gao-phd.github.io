@@ -2,9 +2,6 @@
 main:
   - title: "Grants & Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /portfolio/
     
   - title: "Teaching"
     url: /teaching/    
